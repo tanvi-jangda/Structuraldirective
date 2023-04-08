@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Structuraldirective';
+
+  public batches=["PPA","LB","MEAN","Python","C#"];
+  public fees=[100,200,300,500,400];
 }
